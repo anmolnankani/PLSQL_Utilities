@@ -1,2 +1,3 @@
 # PLSQL_Utilities
-Reusable PL/SQL functions, triggers and small utilities.
+
+Reusable PL/SQL helpers: formatting, tax calc, simple audit trigger examples.
